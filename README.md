@@ -1,8 +1,6 @@
 # VapoRA
 
-Ghost için olan [Vapor](https://github.com/sethlilly/Vapor) temasının Türkiye şubesi.
-
-[Canlısı](http://www.ramesaliyev.com/).
+Ghost için olan [Vapor](https://github.com/sethlilly/Vapor) temasının Türkiye şubesi. Canlı yayındaki halini [buradan](http://www.ramesaliyev.com/) görebilirsiniz.
 
 ## Yapılanlar
 
