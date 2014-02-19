@@ -8,3 +8,5 @@
 .idea/scopes/scope_settings.xml
 .idea/workspace.xml
 .idea/vcs.xml
+.idea/VapoRA.iml
+*.iml
