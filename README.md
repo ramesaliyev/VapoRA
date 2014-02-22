@@ -11,3 +11,4 @@ Ghost için olan [Vapor](https://github.com/sethlilly/Vapor) temasının Türkiy
 - Analytics eklendi.
 - Türkçe karakter desteği olan [Forum](http://www.google.com/fonts/specimen/Forum) fontu kullanıldı.
 - Syntax Highlighting desteği eklendi.
+- Syntax Highlighting için [yardımcı script](http://ramesaliyev.com/ghosta-syntax-highlighting-eklemek/) eklendi.
