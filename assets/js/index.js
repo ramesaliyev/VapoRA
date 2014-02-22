@@ -25,7 +25,7 @@
             if(data.prismLang) classList += " language-"+data.prismLang;
 
             // Prism Line-Numbers belirttiysek class'ımızı ekleyelim.
-            if(data.prismLinenumbers) classList += " line-numbers";
+            if(data.prismLinenumbers === "true") classList += " line-numbers";
 
             // Prism Line Higlight belirttiysek direkt olark attribute'muzu atayalım.
             if(data.prismLinehighlight) $pre.attr("data-line", data.prismLinehighlight);
