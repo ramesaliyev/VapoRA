@@ -13,13 +13,17 @@
         {{#post}}
 
         <header>
-        {{#if tags}}<div class="post-meta tags">Etikleme: {{tags}}</div>{{/if}}
+        {{#if tags}}<div class="post-meta tags">Etiketler: {{tags}}</div>{{/if}}
         <h1 class="post-title">{{{title}}}</h1>
         <div class="post-meta"><time datetime="{{date format='YYYY-MM-DD'}}">{{date format="DD.MM.YYYY"}}</time> GECESİ</div>
         </header>
 
         <section class="post-content">
             {{content}}
+        </section>
+
+        <section>
+            <p class="light">Yukarıda yazılanlarda bir hata gördüysen, ya da ne kastın be abi şöyle daha kolay bir yolu var diyorsan yorum bırak, aydınlat.</p>
         </section>
 
         <section class="share">

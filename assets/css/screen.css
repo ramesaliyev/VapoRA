@@ -129,6 +129,9 @@ article.preview p.readmore {
   text-transform: uppercase;
   font-weight: 400;
 }
+.light {
+    color:#ccc
+}
 /* === Header === */
 #blog-logo {
   display: block;
